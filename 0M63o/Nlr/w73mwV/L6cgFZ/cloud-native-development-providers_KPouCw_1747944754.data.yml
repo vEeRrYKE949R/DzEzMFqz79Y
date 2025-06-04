@@ -15,7 +15,6 @@ nav:
       - Data ingestion and in motion with Cloud Pak for Integration: collect/cp4i-es.md
       - Collect data with Cloud Pak for Data: collect/cp4d-collect-data.md
     - Analyze: 
-      - Define the anomaly detection scoring model with Watson Studio: analyze/ws-ml-dev.md
     - Infuse:
       - Develop the simulation app: infuse/simul-app.md
       - Develop scoring app with cloud pak for application: infuse/dev-scoring.md
